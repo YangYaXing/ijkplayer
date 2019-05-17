@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="topbar_bg">#FF9708</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#333333</color>
+    <color name="edit_bg">#F2F1F0</color>
+    <color name="text_black3">#999999</color>
+    <color name="text_black">#666666</color>
+    <color name="text_black2">#333333</color>
+    <color name="right_bg">#F5F4F9</color>
+    <color name="tab_bg">#EEEEEE</color>
+    <color name="divider_gray">#fafafa</color>
+    <color name="login_bg">#EFEFF4</color>
+    <color name="d_red">#E6435D</color>
+    <color name="red">#ff0000</color>
+    <color name="code_bg">#D8D8D8</color>
+    <color name="reg_bg">#9ED99D</color>
+    <color name="my_head">#F09176</color>
+    <color name="save_color">#1AAD19</color>
+    <color name="address_blue">#00aaff</color>
+    <color name="yzm_color">#09BB07</color>
+    <color name="order_bg1">#FDA354</color>
+    <color name="order_bg2">#FED4B1</color>
+    <color name="money_color">#E81331</color>
+</resources>
